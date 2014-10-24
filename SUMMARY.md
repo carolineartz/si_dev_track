@@ -10,7 +10,6 @@
    * [Rails REST Pattern](restful_routing/rails_rest_pattern.md)
    * [MVC Pattern: Learning Resources](mvc_&_rails/README.md)
    * [Rails MVC & The Request Response Cycle](internet/request_response_rails.md)
-* [References](references/README)
-   * [Naming](references/naming.md)
+* [References](references/README.md)
    * [Git Branch in Your Bash Prompt](references/git_branch_in_your_bash_prompt.md)
 

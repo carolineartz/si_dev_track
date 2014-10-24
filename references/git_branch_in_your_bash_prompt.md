@@ -1,4 +1,4 @@
-# Git Branch in Your Bash Prompt
+# Add Git Branch in Your Bash Prompt
 
 **download the `git-prmopt.sh` script and save it to your root directory:**
 

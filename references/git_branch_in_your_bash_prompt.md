@@ -2,6 +2,7 @@
 
 **download the `git-prmopt.sh` script and save it to your root directory:**
 
+
 ```
 curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh -o ~/.git-prompt.sh
 ```
